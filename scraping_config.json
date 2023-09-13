@@ -1,0 +1,32 @@
+[
+    {
+        "url": "https://www.foxnews.com/",
+        "link_selector": "article h3.title a",
+        "title_selector": "h1.headline",
+        "content_selector": "div.article-body"
+    },
+    {
+        "url": "https://www.nbcnews.com/",
+        "link_selector": "h3.styles_headline__5qvTg a",
+        "title_selector": "h1.article-hero-headline__htag",
+        "content_selector": "div.article-body__content"
+    },
+    {
+        "url": "https://www.bbc.com/news",
+        "link_selector": "a.gs-c-promo-heading",
+        "title_selector": "header h1",
+        "content_selector": "article"
+    },
+    {
+        "url": "https://abcnews.go.com/",
+        "link_selector": ".block__single-column .AnchorLink, .AnchorLink.News, .AnchorLink.News__Item",
+        "title_selector": "h1",
+        "content_selector": "article"
+    },
+    {
+        "url": "https://www.theguardian.com/us",
+        "link_selector": "a.dcr-lv2v9o",
+        "title_selector": "h1",
+        "content_selector": "div.article-body-commercial-selector"
+    }
+]
